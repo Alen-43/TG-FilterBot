@@ -51,7 +51,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/singam4alen/TG-AutoFilter)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/singam4alen/TG-FilterBot)
 
 
 
